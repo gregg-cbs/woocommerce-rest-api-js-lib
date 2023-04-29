@@ -1,5 +1,11 @@
 # WooCommerce REST API - JavaScript Library
 
+## NOTICE
+### STAR THIS IN THE MEAN TIME, I AM GOING TO IMPLEMENT VULNERABILTY FIXES AND OTHER PULL REQUESTS FROM THE COMMUNITY FROM THE ORIGINAL PACKAGE:  
+https://github.com/woocommerce/woocommerce-rest-api-js-lib
+
+--------------
+
 New JavaScript library for WooCommerce REST API, supports CommonJS (CJS) and Embedded System Module (ESM).
 
 Requests are made with [Axios library](https://github.com/axios/axios) with [support to promises](https://github.com/axios/axios#promises).
